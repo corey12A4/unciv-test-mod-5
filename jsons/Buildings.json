@@ -21,7 +21,7 @@
 		"happiness": -15,
 		"maintenance": 10,
 		"percentStatBonus": {"gold": 25},
-	    "RequiredTech": "Currency"
+	   "requiredTech": "Electricity"
 	},
 	{
 		"name": "Propaganda",
