@@ -6,7 +6,6 @@
 		"culture": 2,
 		"science": -10,
 		"happiness": -5,
-		"happiness": ["[-5]%"],
 		"maintenance": 96,
 		"percentStatBonus": {"happniness": -5},
 		"uniques": ["[+25]% Production when constructing [Land] units [in this city]"],
