@@ -2,7 +2,7 @@
 	{
 		"name": "agressive musketman",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Crimnex",
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 30,
