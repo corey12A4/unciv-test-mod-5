@@ -21,7 +21,7 @@
 		"happiness": -15,
 		"maintenance": 10,
 		"percentStatBonus": {"gold": 25},
-	   "requiredTech": "Electricity"
+	   "requiredTech": "Currency"
 	},
 	{
 		"name": "Propaganda",
@@ -33,7 +33,7 @@
 		"happiness": 20,
 		"maintence": 100,
 		"percentStatBonus": {"faith": 30},
-		"RequiredTech": "Industrialization",
+		"requiredTech": "Industrialization",
 		"Uniques": ["[+15]% Production when constructing [Land] units [in this city]","All newly-trained [Melee] units [in this city] receive the [Accuracy III, drill III, medic II] promotion"]
 	}
 ]
