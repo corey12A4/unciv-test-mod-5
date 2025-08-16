@@ -1,12 +1,14 @@
 [
 	{
-		"name": "forced military service",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
+		"name": "forced military service order",
+		"uniqueTo": "Crimnex",
+		"cost": 1,
 		"culture": 12,
 		"science": 12,
 		"maintenance": 96,
+		"percentStatBonus": {"production": -5},
+		"percentStatBonus": {"happniness": -5},
+		"uniques": ["[+25]% Production when constructing [Land] units [in this city]"],
 		"requiredBuildingInAllCities": "Barracks",
 		"requiredTech": "Civil Service"
 	}
