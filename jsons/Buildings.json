@@ -7,7 +7,7 @@
 		"science": -10,
 		"happiness": -5,
 		"maintenance": 10,
-		"percentStatBonus": {"unhappniness": 5},
+		"[-5]% gold [in this city]",
 		"uniques": ["[+25]% Production when constructing [Land] units [in this city]"],
 		"requiredBuildingInAllCities": "Barracks",
 		"requiredTech": "Civil Service"
@@ -32,8 +32,9 @@
 		"science": 30,
 		"happiness": 20,
 		"maintence": 100,
-		"percentStatBonus": {"faith": 30},
-		"requiredTech": "Industrialization",
-		"uniques": ["[+15]% Production when constructing [Land] units [in this city]","All newly-trained [Melee] units [in this city] receive the [Accuracy III, drill III, medic II] promotion"]
+		"percentStatBonus": {"happiness": 10},
+		"",
+		"[-5]% growth [in this city]",
+		"requiredTech": "Industrialization"
 	}
 ]
