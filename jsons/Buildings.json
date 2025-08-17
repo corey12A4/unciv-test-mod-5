@@ -34,6 +34,7 @@
 		"maintence": 100,
 		"percentStatBonus": {"faith": 30},
 		"requiredTech": "Industrialization",
-		"Uniques": ["[+15]% Production when constructing [Land] units [in this city]","All newly-trained [Melee] units [in this city] receive the [Accuracy III, drill III, medic II] promotion"]
+		"Uniques": ["[+15]% Production when constructing [Land] units [in this city]"],
+		"Uniques": "All newly-trained [Melee] units [in this city] receive the [Accuracy III, drill III, medic II] promotion"
 	}
 ]
